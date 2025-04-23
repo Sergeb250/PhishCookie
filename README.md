@@ -57,7 +57,7 @@ python phish_cookie.py
 [*] Waiting for incoming XSS payloads...
 ```
 
-![Server Running](https://placeholder-for-screenshot.png)
+![Server Running](https://github.com/Sergeb250/PhishCookie/blob/6d2b8829c8efc1cec1de48dbec7904b333e45a21/images/Screenshot%20(27).png)
 
 ## 💉 XSS Payload Examples
 
