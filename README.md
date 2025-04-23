@@ -20,7 +20,7 @@ PhishCookie is an educational tool designed to demonstrate how cross-site script
 
 PhishCookie simulates how malicious actors exploit XSS vulnerabilities to steal cookies and other sensitive information. By understanding these techniques, developers and security professionals can better protect their applications.
 
-![How XSS Works](https://placeholder-for-diagram.png)
+![How XSS Works](https://github.com/Sergeb250/PhishCookie/blob/551c33af67d04ff6a86424b97ea3d17f125f7436/images/Screenshot%20(26).png)
 
 ## ✨ Features
 
